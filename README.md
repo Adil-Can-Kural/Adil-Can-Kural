@@ -41,5 +41,5 @@ A deep learning pipeline predicting both emotional state (8 classes) and emotion
 ### 📫 Connect With Me
 
 * 🌐 **Portfolio:** [Adil-Can-Kural.github.io]((https://adil-can-kural.github.io/port.html))
-* 💼 **LinkedIn:** [[linkedin.com/in/Adil Can Kural](www.linkedin.com/in/adilcan-kural-812689264)]
+* 💼 **LinkedIn:** [linkedin.com/in/Adil Can Kural](www.linkedin.com/in/adilcan-kural-812689264)
 * 📧 **Email:** [Adilcan.Kural@hotmail.com](mailto:Adilcan.Kural@hotmail.com)
