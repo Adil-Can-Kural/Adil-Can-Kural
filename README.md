@@ -14,7 +14,7 @@ I bridge the gap between **AI model capabilities** and **real-world user value**
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Selected Project Highlights
 
 #### 1. [DetactiveAR (Dedektif Pati)](https://github.com/Adil-Can-Kural/DetactiveAR) — *Offline AR Edutainment App*
 A 100% offline Augmented Reality detective game designed specifically for children aged 6–9 to play in constrained spaces like airplane tray tables.
